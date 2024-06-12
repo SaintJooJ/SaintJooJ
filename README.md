@@ -4,7 +4,7 @@
 <a href="https://twitter.com/SaintJooJ" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/saintjooj/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100013380396321" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/124/124010.png"></a>
-<a href="https://www.linkedin.com/in/jorge-garcia-1944a018b/" target="_blank"><img height="30" src="https://www.linkedin.com/in/jorge-garcia-1944a018b"></a>
+<a href="https://www.linkedin.com/in/jorge-garcia-1944a018b/" target="_blank"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 <h1 align='center'>Hello there! <img src="https://preview.redd.it/ry5ppxkf19f41.gif?width=256&auto=webp&s=950b6f46f95a33dab43239e440e4cf7d5d826302" width="40px"></h1>
